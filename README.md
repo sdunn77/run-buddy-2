@@ -1,5 +1,4 @@
 # Run Buddy, Inc
->>>>>>> 3ee8b0672f4744c819bafd7528dacb36329c344f
 
 
 ## Purpose
